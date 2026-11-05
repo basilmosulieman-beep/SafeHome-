@@ -42,6 +42,6 @@ Privacy Policy
   <p>This privacy policy may be updated. Changes are indicated by the “Last updated” date.</p>
 
   <h2>Contact</h2>
-  <p>Questions regarding this privacy policy may be directed to: <strong>your-email@example.com</strong></p>
+  <p>Questions regarding this privacy policy may be directed to: <strong>basilmosulieman@icloud.com/strong></p>
 </body>
 </html>
